@@ -21,7 +21,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://ibb.co/cJ0Vb6p
+about_profile_image: C:/Users/mofan/Desktop/something/headshot_Mofan Zhang.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
