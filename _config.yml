@@ -4,37 +4,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Mofan Zhang
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+title: a nature lover & student at Hogwarts
+email: mzhang90@jhu.edu
+phone: 443-934-8881
+
 
 # Dark Mode (true/false/never)
 darkmode: false
-
-# Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -44,31 +20,63 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: https://i.ibb.co/tLMJM4H/Hogwarts-Mofan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. I love learning coding and mathematics(Optimization and Statistics), also immersing myself in nature. I'm much interested in decision making under uncertainty in complex system. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Please check my **full CV** here for more detailed information of research experiences:
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+    - <a href="https://drive.google.com/file/d/1nywywGKbijh3y28xZi5wgIro8WOZO3Oi/view?usp=sharing">CV</a>
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
+- layout: left
+  name: Johns Hopkins University
+  dates: Expected 12/2020
+  qualification: M.S. in Engineering Management (Operations Research)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Risk and Decision Analysis, Energy Policy and Planning Models, Data Science, Environmental System Design
+- layout: left
+  name: Tsinghua University
+  dates: 2014-2019
+  qualification: Bachelor of Engineering in Hydrology
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Operations Research, Water Resources System and Planning, Economics, Hydrology
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+- layout: left 
+  company: Johns Hopkins University
+  job_title: Research Assistant
+  dates:  3/2020 - present
+  name: Risk and Uncertainty Analysis in Extreme Precipitation under Climate Change
+  quote: >
+   Advisor:<a href="https://hobbsgroup.johnshopkins.edu/home.html">Prof.Benjamin F. Hobbs</a>
+  description: | # this will include new lines to allow paragraphs
+    Examined the changes of future extreme precipitation risks and quantify the impact of uncertainties to stormwater infrusture design
+    
+- layout: left 
+  company: Tsinghua University
+  job_title: Research Assistant
+  dates:  8/2018 - 7/2019
+  name: Assessment of Adaptability of Integrated Water Management Scheme in Changing Environment
+  quote: >
+   Advisor:Prof.Jianshi Zhao
+  description: | # this will include new lines to allow paragraphs
+    Estabilished the framework and defined 6 criteria in assessing the adaptability of water resource planning schemes in changing environment  
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  In my spare time, I enjoy playing the piano and listening to classic music (big fan of Claude Debussy）. I also love reading books, here are two of my favorite ones: 
+  Harry Potter by J. K. Rowling, has been with me since I was a little girl, taught me to be brave and kind, always strive for excellence (from Hermione Granger.
+  The Alchemist by Paulo Coelho, inspired me to live in the moment and make everyday count.
+  
+  I'm actively involved in protecing our environmental and animals.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 
 # Footer
 footer_show_references: true
