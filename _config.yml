@@ -31,9 +31,20 @@ about_content: | # this will include new lines to allow paragraphs
   
 # Education Section
 # education_title: Education #(Use this to override about education section title)
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+- layout: left
+  name: Johns Hopkins University
+  dates: Expected 12/2020
+  qualification: M.S. in Engineering Management (Operations Research)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Risk and Decision Analysis, Energy Policy and Planning Models, Data Science, Environmental System Design
+- layout: left
+  name: Tsinghua University
+  dates: 2014-2019
+  qualification: Bachelor of Engineering in Hydrology
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Operations Research, Water Resources System and Planning, Economics, Hydrology
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
