@@ -23,7 +23,7 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image:https://i.ibb.co/tLMJM4H/Hogwarts-Mofan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. I love learning coding and mathematics(Optimization and Statistics). I'm much interested in decision making under uncertainty in complex system. 
+  Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. I love learning coding and mathematics(Optimization and Statistics), also immersing myself in nature. I'm much interested in decision making under uncertainty in complex system. 
 
   Please check my full CV here for more detailed information of my research experience:
 
@@ -48,23 +48,35 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
-- layout: left (options: left, right, top, top-right, top-middle)
+- layout: left 
   company: Johns Hopkins University
-
   job_title: Research Assistant
-  dates:  3/2020 - present)
+  dates:  3/2020 - present
+  name: Risk and Uncertainty Analysis in Extreme Precipitation under Climate Change
   quote: >
    Advisor:<a href="https://hobbsgroup.johnshopkins.edu/home.html">Prof.Benjamin F. Hobbs</a>
   description: | # this will include new lines to allow paragraphs
     Examined the changes of future extreme precipitation risks and quantify the impact of uncertainties to stormwater infrusture design
-
+    
+- layout: left 
+  company: Tsinghua University
+  job_title: Research Assistant
+  dates:  8/2018 - 7/2019
+  name: Assessment of Adaptability of Integrated Water Management Scheme in Changing Environment
+  quote: >
+   Advisor:Prof.Jianshi Zhao
+  description: | # this will include new lines to allow paragraphs
+    Estabilished the framework and defined 6 criteria in assessing the adaptability of water resource planning schemes in changing environment  
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  In my spare time, I enjoy playing the piano and listening to classic music (big fan of Claude Debussy）. I also love reading books, here are two of my favorite ones: 
+  Harry Potter by J. K. Rowling, has been with me since I was a little girl, taught me to be brave and kind, always strive for excellence (from Hermione Granger.
+  The Alchemist by Paulo Coelho, inspired me to live in the moment and make everyday count.
+  
+  I'm actively involved in protecing our environmental and animals.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
