@@ -21,7 +21,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: C:/Users/mofan/Desktop/something/headshot_Mofan Zhang.jpg
+about_profile_image: https://i.ibb.co/wyVjJSb/headshot-Mofan-Zhang.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. I love learning coding and mathematics(Optimization and Statistics). I'm much interested in decision making under uncertainty in complex system. 
 
