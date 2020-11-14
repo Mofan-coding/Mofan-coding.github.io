@@ -7,3 +7,17 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+- layout: left
+  name: Johns Hopkins University
+  dates: Expected 12/2020
+  qualification: M.S. in Engineering Management (Operations Research)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Risk and Decision Analysis, Energy Policy and Planning Models, Data Science, Environmental System Design
+- layout: left
+  name: Tsinghua University
+  dates: 2014-2019
+  qualification: Bachelor of Engineering in Hydrology
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Relevant Courses: Operations Research, Water Resources System and Planning, Economics, Hydrology
