@@ -4,37 +4,20 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Mofan Zhang
-title: a nature lover & Student at Hogwarts
+title: a nature lover & student at Hogwarts
 email: mzhang90@jhu.edu
 phone: 443-934-8881
-CV: https://drive.google.com/file/d/1nywywGKbijh3y28xZi5wgIro8WOZO3Oi/view?usp=sharing
+
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+linkedin_username: Mofan Zhang
+
+
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
