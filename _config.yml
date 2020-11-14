@@ -12,12 +12,6 @@ phone: 443-934-8881
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-
-linkedin_username: Mofan Zhang
-
-
-
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -27,9 +21,9 @@ linkedin_username: Mofan Zhang
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: https://ibb.co/cJ0Vb6p
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, welcome to my page! My name is Mofan Zhang, a graduate student and research assitant at Johns Hopkins University. Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - Lists
