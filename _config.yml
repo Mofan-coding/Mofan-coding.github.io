@@ -28,53 +28,10 @@ about_content: | # this will include new lines to allow paragraphs
 
     - <a href="https://drive.google.com/file/d/1nywywGKbijh3y28xZi5wgIro8WOZO3Oi/view?usp=sharing">CV</a>
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
-- layout: left
-  name: Johns Hopkins University
-  dates: Expected 12/2020
-  qualification: M.S. in Engineering Management (Operations Research)
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Relevant Courses: Risk and Decision Analysis, Energy Policy and Planning Models, Data Science, Environmental System Design
-- layout: left
-  name: Tsinghua University
-  dates: 2014-2019
-  qualification: Bachelor of Engineering in Hydrology
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Relevant Courses: Operations Research, Water Resources System and Planning, Economics, Hydrology
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-- layout: left 
-  company: Johns Hopkins University
-  job_title: Research Assistant
-  dates:  3/2020 - present
-  name: Risk and Uncertainty Analysis in Extreme Precipitation under Climate Change
-  quote: >
-   Advisor:<a href="https://hobbsgroup.johnshopkins.edu/home.html">Prof.Benjamin F. Hobbs</a>
-  description: | # this will include new lines to allow paragraphs
-    Examined the changes of future extreme precipitation risks and quantify the impact of uncertainties to stormwater infrusture design
-    
-- layout: left 
-  company: Tsinghua University
-  job_title: Research Assistant
-  dates:  8/2018 - 7/2019
-  name: Assessment of Adaptability of Integrated Water Management Scheme in Changing Environment
-  quote: >
-   Advisor:Prof.Jianshi Zhao
-  description: | # this will include new lines to allow paragraphs
-    Estabilished the framework and defined 6 criteria in assessing the adaptability of water resource planning schemes in changing environment  
+ 
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  In my spare time, I enjoy playing the piano and listening to classic music (big fan of Claude Debussy）. I also love reading books, here are two of my favorite ones: 
-  Harry Potter by J. K. Rowling, has been with me since I was a little girl, taught me to be brave and kind, always strive for excellence (from Hermione Granger.
-  The Alchemist by Paulo Coelho, inspired me to live in the moment and make everyday count.
-  
-  I'm actively involved in protecing our environmental and animals.
 
 
 
