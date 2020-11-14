@@ -33,6 +33,11 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  In my spare time, I enjoy playing the piano and listening to classic music (big fan of Claude Debussy）. I also love reading books, here are two of my favorite ones: 
+  Harry Potter by J. K. Rowling, has been with me since I was a little girl, taught me to be brave and kind, always strive for excellence (from Hermione Granger.
+  The Alchemist by Paulo Coelho, inspired me to live in the moment and make everyday count.
+  
 
 
 
