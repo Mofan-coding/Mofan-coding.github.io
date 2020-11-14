@@ -48,9 +48,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
+- layout: left (options: left, right, top, top-right, top-middle)
+  company: Johns Hopkins University
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+  job_title: Research Assistant
+  dates:  3/2020 - present)
+  quote: >
+   Advisor:<a href="https://hobbsgroup.johnshopkins.edu/home.html">Prof.Benjamin F. Hobbs</a>
+  description: | # this will include new lines to allow paragraphs
+    Examined the changes of future extreme precipitation risks and quantify the impact of uncertainties to stormwater infrusture design
+
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
