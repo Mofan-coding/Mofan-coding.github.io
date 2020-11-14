@@ -3,11 +3,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Mofan Zhang
+title: a nature lover & Student at Hogwarts
+email: mzhang90@jhu.edu
+phone: 443-934-8881
+CV: https://drive.google.com/file/d/1nywywGKbijh3y28xZi5wgIro8WOZO3Oi/view?usp=sharing
 
 # Dark Mode (true/false/never)
 darkmode: false
